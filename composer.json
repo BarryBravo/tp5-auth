@@ -1,17 +1,19 @@
 {
-    "name": "zouxiang0639/thinkcms-auth",
-    "description": "The ThinkPHP5 thinkcms-auth Package.",
+    "name": "barry/tp5-auth",
+    "description": "The ThinkPHP5 Auth Package.",
+    "keyword": ["tp5 auth"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "zouxiang",
-            "email": "542506511@qq.com"
+            "name": "Barry Bravo",
+            "email": "barrybravo@163.com"，
+            "homepage": "https://github.com/BarryBravo"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "thinkcms\\auth\\": ""
+            "tp5\\auth\\": ""
         },
         "files": [
             "helper.php"
