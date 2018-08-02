@@ -3,7 +3,7 @@
 
 ## 安装
 ~~~
-> composer require zouxiang0639/thinkcms-auth
+> composer require barry/tp5-auth
 ~~~
 ## v1.1更新
 * 1.加入了行为日志
